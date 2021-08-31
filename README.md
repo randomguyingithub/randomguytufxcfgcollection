@@ -1,5 +1,5 @@
 # randomguytufxcfgcollection
-I collected cfg there so I can easily download all at once since all not on ckan.
+I collected cfg there so I can easily download all at once since all not on ckan.  
 Include: (last updated: yyyy-mm-dd) All right reserved to the creator of the config.
 1. [Editor99's TUFX Profile](https://forum.kerbalspaceprogram.com/index.php?/topic/203741-tufx-profile-editor99s-tufx-profile-release-alpha-03-7122021-httpsgithubcomgteditor99editor99-stufxprofilereleasestagalpha-03/) (2021-7-12)  
 2. [Emilius's old/KASA tufx profile](https://forum.kerbalspaceprogram.com/index.php?/topic/201856-deprecated-kasa-flag-pack-and-tufx-profile-custom-kasa-kerbal-nasa-logos/&tab=comments#comment-3957768) (2021-04-20)  
