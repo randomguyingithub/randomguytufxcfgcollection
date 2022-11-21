@@ -12,5 +12,6 @@ Include: (last updated: yyyy-mm-dd) All right reserved to the creator of the con
 9.   Alverro's old blue tinted TUFX profile? (found in r/ksp discord)
 10.   [Steven's TUFX profile](https://forum.kerbalspaceprogram.com/index.php?/topic/204576-stevens-install-screenshot-tufx-guide-always-wip/) (2021-08-30)
 11.   [ballisticfox's neutral tufx profile](https://forum.kerbalspaceprogram.com/index.php?/topic/204766-ballisticfoxs-neutral-tufx-config/) (2021-09-16)
+12. [Guilty_Sector_215's tufx profile](https://www.reddit.com/r/KerbalSpaceProgram/comments/z0cqjw/a_look_at_polariss_testing_grounds/ix5df8l/) (2022-11-21)
 ---
 sidenote, please don't use tufx config with AO turned on otherwise you have weird circle shadow with other visual mods.
